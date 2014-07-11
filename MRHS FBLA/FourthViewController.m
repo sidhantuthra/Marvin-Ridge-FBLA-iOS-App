@@ -34,7 +34,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"kelley.gates@ucps.k12.nc.us"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -49,7 +49,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"troy.burns@ucps.k12.nc.us"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -64,7 +64,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"leila.terzic@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -79,7 +79,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"sidhantuthra@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -94,7 +94,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"omg5577@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -109,7 +109,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"rjavalancha@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -124,7 +124,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"ebueche2@yahoo.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -139,7 +139,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"rscott1016@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -154,7 +154,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"melissafu.727@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -169,7 +169,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"cgarrick6@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -184,7 +184,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"josh.graiger@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -199,7 +199,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"bryanna.coker@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -214,7 +214,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"mhashe97@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
@@ -229,7 +229,7 @@
     // Email Content
     NSString *messageBody = @"";
     // To address
-    NSArray *toRecipents = [NSArray arrayWithObject:@"nike8004@gmail.com"];
+    NSArray *toRecipents = [NSArray arrayWithObject:@"<EMAIL ADDRESS>"];
     MFMailComposeViewController *mc = [[MFMailComposeViewController alloc] init];
     mc.mailComposeDelegate = self;
     [mc setSubject:emailTitle];
