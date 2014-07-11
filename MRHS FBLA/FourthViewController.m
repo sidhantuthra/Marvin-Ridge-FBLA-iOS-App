@@ -208,7 +208,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailDirector7:(id)sender {
+- (IBAction)btnMailSecretary:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -223,7 +223,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailSecretary:(id)sender {
+- (IBAction)btnMailHistorian:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
