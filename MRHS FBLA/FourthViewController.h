@@ -21,6 +21,6 @@
 - (IBAction)btnMailDirector4:(id)sender;
 - (IBAction)btnMailDirector5:(id)sender;
 - (IBAction)btnMailDirector6:(id)sender;
-- (IBAction)btnMailDirector7:(id)sender;
 - (IBAction)btnMailSecretary:(id)sender;
+- (IBAction)btnMailHistorian:(id)sender;
 @end
