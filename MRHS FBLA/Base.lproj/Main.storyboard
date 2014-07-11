@@ -151,142 +151,142 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VXx-re-YbR">
                                 <rect key="frame" x="43" y="173" width="109" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <state key="normal" title="Ms. Kelley Gates">
+                                <state key="normal" title="Advisor 1">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailGates:" destination="yjl-3i-xZO" eventType="touchUpInside" id="C9x-i9-692"/>
+                                    <action selector="btnMailAdvisor1:" destination="yjl-3i-xZO" eventType="touchUpInside" id="C9x-i9-692"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ijq-JN-cZ1">
                                 <rect key="frame" x="43" y="203" width="96" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <state key="normal" title="Mr. Troy Burns">
+                                <state key="normal" title="Advisor 2">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailBurns:" destination="yjl-3i-xZO" eventType="touchUpInside" id="mDC-ZW-WKe"/>
-                                    <action selector="btnMailGates:" destination="yjl-3i-xZO" eventType="touchUpInside" id="8pM-hj-hhA"/>
+                                    <action selector="btnMailAdvisor2:" destination="yjl-3i-xZO" eventType="touchUpInside" id="mDC-ZW-WKe"/>
+                                    <action selector="btnMailAdvisor1:" destination="yjl-3i-xZO" eventType="touchUpInside" id="8pM-hj-hhA"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Zr-ar-dr4">
                                 <rect key="frame" x="43" y="255" width="127" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="President - Leila Terzic">
+                                <state key="normal" title="President">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailTerzic:" destination="yjl-3i-xZO" eventType="touchUpInside" id="zpl-LO-ZIn"/>
+                                    <action selector="btnMailPresident:" destination="yjl-3i-xZO" eventType="touchUpInside" id="zpl-LO-ZIn"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MVc-Xl-UVJ">
                                 <rect key="frame" x="43" y="275" width="170" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Vice President - Sidhant Uthra">
+                                <state key="normal" title="Vice President1">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailUthra:" destination="yjl-3i-xZO" eventType="touchUpInside" id="h49-NS-b9f"/>
+                                    <action selector="btnMailVP1:" destination="yjl-3i-xZO" eventType="touchUpInside" id="h49-NS-b9f"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SWV-Km-XRg">
                                 <rect key="frame" x="43" y="296" width="158" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Vice Presidnet - Olivia Gartz">
+                                <state key="normal" title="Vice President2">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailGartz:" destination="yjl-3i-xZO" eventType="touchUpInside" id="3Pd-Ov-vmT"/>
+                                    <action selector="btnMailVP2:" destination="yjl-3i-xZO" eventType="touchUpInside" id="3Pd-Ov-vmT"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gOI-0u-tnZ">
                                 <rect key="frame" x="42" y="316" width="219" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="State Office Liason - Ruchi Jalavancha">
+                                <state key="normal" title="State Office Liason">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailJalavancha:" destination="yjl-3i-xZO" eventType="touchUpInside" id="PMB-du-0s2"/>
+                                    <action selector="btnMailLiason:" destination="yjl-3i-xZO" eventType="touchUpInside" id="PMB-du-0s2"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WdT-M6-wdo">
                                 <rect key="frame" x="42" y="336" width="214" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Director of Service - Elizabeth Bueche">
+                                <state key="normal" title="Director1">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailBeuche:" destination="yjl-3i-xZO" eventType="touchUpInside" id="jBW-vm-cra"/>
+                                    <action selector="btnMailDirector1:" destination="yjl-3i-xZO" eventType="touchUpInside" id="jBW-vm-cra"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="btf-eK-IXy">
                                 <rect key="frame" x="43" y="356" width="180" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Director of Finance - Ryan Scott">
+                                <state key="normal" title="Director2">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailScott:" destination="yjl-3i-xZO" eventType="touchUpInside" id="bAS-NQ-jhg"/>
+                                    <action selector="btnMailDirector2:" destination="yjl-3i-xZO" eventType="touchUpInside" id="bAS-NQ-jhg"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eiC-QJ-w5A">
                                 <rect key="frame" x="42" y="376" width="213" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Director of Social Events - Melissa Fu">
+                                <state key="normal" title="Director3">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailFu:" destination="yjl-3i-xZO" eventType="touchUpInside" id="Nlc-QW-PaN"/>
+                                    <action selector="btnMailDirector3:" destination="yjl-3i-xZO" eventType="touchUpInside" id="Nlc-QW-PaN"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lFo-YK-LWC">
                                 <rect key="frame" x="43" y="397" width="224" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Director of Social Events - Chris Garrick">
+                                <state key="normal" title="Director4">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailGarrick:" destination="yjl-3i-xZO" eventType="touchUpInside" id="eoS-wb-Hol"/>
+                                    <action selector="btnMailDirector4:" destination="yjl-3i-xZO" eventType="touchUpInside" id="eoS-wb-Hol"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xb0-Ja-d9n">
                                 <rect key="frame" x="43" y="456" width="137" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Secretary - Josh Graiger">
+                                <state key="normal" title="Director5">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailGraiger:" destination="yjl-3i-xZO" eventType="touchUpInside" id="9sa-kL-PIK"/>
+                                    <action selector="btnMailDirector5:" destination="yjl-3i-xZO" eventType="touchUpInside" id="9sa-kL-PIK"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hla-n9-z3W">
                                 <rect key="frame" x="43" y="475" width="157" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Historian - Bryanna Kalokoh">
+                                <state key="normal" title="Director6">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailKalokoh:" destination="yjl-3i-xZO" eventType="touchUpInside" id="pZU-mm-aow"/>
+                                    <action selector="btnMailDirector6:" destination="yjl-3i-xZO" eventType="touchUpInside" id="pZU-mm-aow"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ll5-5K-tmT">
                                 <rect key="frame" x="43" y="417" width="211" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Director of Social Media - Mira Hashe">
+                                <state key="normal" title="Secretary">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailHashe:" destination="yjl-3i-xZO" eventType="touchUpInside" id="m5y-4z-EjW"/>
+                                    <action selector="btnMailSecretary:" destination="yjl-3i-xZO" eventType="touchUpInside" id="m5y-4z-EjW"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0JK-xc-x4S">
                                 <rect key="frame" x="43" y="437" width="237" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <state key="normal" title="Director of Committees - Nicole Guglielmo">
+                                <state key="normal" title="Historian">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="btnMailGuglielmo:" destination="yjl-3i-xZO" eventType="touchUpInside" id="cAX-f5-XiX"/>
+                                    <action selector="btnMailHistorian:" destination="yjl-3i-xZO" eventType="touchUpInside" id="cAX-f5-XiX"/>
                                 </connections>
                             </button>
                         </subviews>
