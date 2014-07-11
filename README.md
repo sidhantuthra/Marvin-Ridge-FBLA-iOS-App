@@ -2,4 +2,4 @@ Marvin-Ridge-FBLA-iOS-App
 =========================
 Objective-C code plus IB (International Baccalaureate) Documentation for the Marvin Ridge FBLA iOS App.
 
-<b> THIS PROJECT IS NOW OPEN SOURCED SANS IB DOCUMENTATION.
+THIS PROJECT IS NOW <b>OPEN SOURCED<b> SANS IB DOCUMENTATION.
