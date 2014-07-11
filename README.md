@@ -1,4 +1,4 @@
-Marvin-Ridge-FBLA-iOS-App
+Marvin Ridge FBLA iOS App
 =========================
 Objective-C code for the Marvin Ridge FBLA iOS App
 
