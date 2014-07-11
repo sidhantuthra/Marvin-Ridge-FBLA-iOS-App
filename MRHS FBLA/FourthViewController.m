@@ -28,7 +28,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-- (IBAction)btnMailGates:(id)sender {
+- (IBAction)btnMailAdvisor1:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -43,7 +43,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailBurns:(id)sender {
+- (IBAction)btnMailAdvisor2:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -58,7 +58,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailTerzic:(id)sender {
+- (IBAction)btnMailPresident:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -73,7 +73,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailUthra:(id)sender {
+- (IBAction)btnMailVP1:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -88,7 +88,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailGartz:(id)sender {
+- (IBAction)btnMailVP2:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -103,7 +103,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailJalavancha:(id)sender {
+- (IBAction)btnMailLiason:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -118,7 +118,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailBueche:(id)sender {
+- (IBAction)btnMailDirector1:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -133,7 +133,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailScott:(id)sender {
+- (IBAction)btnMailDirector2:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -148,7 +148,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailFu:(id)sender {
+- (IBAction)btnMailDirector3:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -163,7 +163,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailGarrick:(id)sender {
+- (IBAction)btnMailDirector4:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -178,7 +178,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailGraiger:(id)sender {
+- (IBAction)btnMailDirector5:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -193,7 +193,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailKalokoh:(id)sender {
+- (IBAction)btnMailDirector6:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -208,7 +208,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailHashe:(id)sender {
+- (IBAction)btnMailDirector7:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
@@ -223,7 +223,7 @@
     // Present mail view controller on screen
     [self presentViewController:mc animated:YES completion:NULL];
 }
-- (IBAction)btnMailGuglielmo:(id)sender {
+- (IBAction)btnMailSecretary:(id)sender {
     // Email Subject
     NSString *emailTitle = @"";
     // Email Content
