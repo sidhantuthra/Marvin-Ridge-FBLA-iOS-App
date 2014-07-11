@@ -14,7 +14,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSURL *url = [NSURL URLWithString: @"http://marvinridgefbla1.webs.com"];
+    NSURL *url = [NSURL URLWithString: @"<CALENDAR/NEWS URL>"];
     NSURLRequest *myrequest = [NSURLRequest requestWithURL:url];
     [_webNews loadRequest:myrequest];
 }
