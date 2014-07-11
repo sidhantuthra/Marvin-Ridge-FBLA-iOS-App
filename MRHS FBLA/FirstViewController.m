@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSURL *twitterurl = [NSURL URLWithString: @"https://twitter.com/mrhs_fbla1"];
+    NSURL *twitterurl = [NSURL URLWithString: @"<TWITTER ACCOUNT URL>"];
     NSURLRequest *twitterrequest = [NSURLRequest requestWithURL: twitterurl];
     [_webTwitter loadRequest: twitterrequest];
 }
