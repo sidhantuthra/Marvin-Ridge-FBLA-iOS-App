@@ -9,18 +9,18 @@
 #import <UIKit/UIKit.h>
 #import <MessageUI/MessageUI.h>
 @interface FourthViewController : UIViewController <MFMailComposeViewControllerDelegate>
-- (IBAction)btnMailGates:(id)sender; 
-- (IBAction)btnMailBurns:(id)sender;
-- (IBAction)btnMailTerzic:(id)sender;
-- (IBAction)btnMailUthra:(id)sender;
-- (IBAction)btnMailGartz:(id)sender;
-- (IBAction)btnMailJalavancha:(id)sender;
-- (IBAction)btnMailBueche:(id)sender;
-- (IBAction)btnMailScott:(id)sender;
-- (IBAction)btnMailFu:(id)sender;
-- (IBAction)btnMailGarrick:(id)sender;
-- (IBAction)btnMailGraiger:(id)sender;
-- (IBAction)btnMailKalokoh:(id)sender;
-- (IBAction)btnMailHashe:(id)sender;
-- (IBAction)btnMailGuglielmo:(id)sender;
+- (IBAction)btnMailAdvisor1:(id)sender; 
+- (IBAction)btnMailAdvisor2:(id)sender;
+- (IBAction)btnMailPresident:(id)sender;
+- (IBAction)btnMailVP:(id)sender;
+- (IBAction)btnMailVP2:(id)sender;
+- (IBAction)btnMailLiason:(id)sender;
+- (IBAction)btnMailDirector1:(id)sender;
+- (IBAction)btnMailDirector2:(id)sender;
+- (IBAction)btnMailDirector3:(id)sender;
+- (IBAction)btnMailDirector4:(id)sender;
+- (IBAction)btnMailDirector5:(id)sender;
+- (IBAction)btnMailDirector6:(id)sender;
+- (IBAction)btnMailDirector7:(id)sender;
+- (IBAction)btnMailSecretary:(id)sender;
 @end
